@@ -1,5 +1,5 @@
 # SchoolManagementProject
-
+[It is done with python - my sql connector]
 School Management System which starts with a manual data entry and management deals with many operations, now-a-days has become a complicated and error prone job to maintain the company’s administrative system manually. So, we have decided to go about computerizing their operation.
 
 The new system created in the project i.e."Computerization of School Management System” tends to computerize the School Management System by storing its associated data in database files and thus performing all works related to modification and implementation.
